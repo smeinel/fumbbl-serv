@@ -14,5 +14,11 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/smeinel/fumbbl-serv/issues"
+  },
+  "devDependencies": {
+    "chai": "~2.2.0"
+  },
+  "dependencies": {
+    "express": "~4.12.3"
   }
 }
